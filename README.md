@@ -25,3 +25,5 @@ Ensure you have Python installed. Then, install the required library:
 
 ```bash
 pip install requests
+```
+**Note** - I just made this becasue I was bored and I just want to post something on github
